@@ -4,7 +4,7 @@ import HeroSection from './HeroSection'
 
 const Header = () => {
   return (
-    <header>
+    <header className='container'>
      <Navbar />
      <HeroSection />
     </header>
