@@ -7,6 +7,7 @@ const HeroSection = () => {
          business solution all in one place
          </h1>
          <p className='text-center px-8  leadring-5 py-10'> Discover a comprehensive business solution all in one place, designed to streamline your operations, enhance productivity, and drive growth. Whether you're managing finances, improving team collaboration, or scaling your marketing efforts, ours integrated platform provides the tools and resources you need to succeed. Simplify complex processes s</p>
+         <button> get more details</button>
     </div>
   )
 }
